@@ -2,7 +2,14 @@
     border: 2px solid brown;
     color: brown;
     margin: 0;
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
 }
 body {
     background-color: black;
+}
+header {
+        padding: 4vh;
+        border-style: double
+        font-size: 2vh;
 }
