@@ -1,5 +1,5 @@
 * {
-    border: 2px solid brown;
+    border: "2px solid brown";
     color: brown;
     margin: 0;
     text-align: center;
@@ -9,7 +9,7 @@ body {
     background-color: black;
 }
 header {
-        padding: 4vh;
-        border-style: double
-        font-size: 2vh;
+        padding: "4vh";
+        border: "4vh solid brown";
+        font-size: "16vh";    
 }
